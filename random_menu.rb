@@ -1,4 +1,4 @@
-#Janice Lichtman's program for generating a random menu from a user-defined list of options
+#Janice Lichtman's program for generating a random menu from a user-inputted list of options
 
 
 #Asks the user for the number of descriptors they want to include, and takes user input for those descriptors. Then does the same for  cooking-styles and foods.
