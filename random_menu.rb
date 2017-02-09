@@ -2,7 +2,7 @@
 
 food_adjectives = ["hot", "soft", "small", "soggy", "watery", "crispy", "burnt", "slimey", "creamy", "greasy"]
 cooking_styles = ["steamed", "grilled", "baked", "roasted", "boiled", "fried", "barbequed", "microwaved", "stir-fried", "poached"]
-different_foods = ["chicken", "steak", "salmon", "dumplings", "pizza", "tacos", "sandwiches", "pasta", "cake"]
+different_foods = ["chicken", "steak", "salmon", "dumplings", "pizza", "tacos", "sandwiches", "pasta", "cake", "tofu"]
 
 #index so that it'll print a new number within loop
 index = 1
