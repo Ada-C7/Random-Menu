@@ -50,10 +50,8 @@ end
 
 # This method takes in 3 arrays, will iterate 10 times, and print out a menu with 10 randomly generated items
 # There will be no repeats of food, descriptor, or cooking style
-def create_menu(descriptors, cooking_styles, foods)
-  
+def create_menu(descriptors, cooking_styles, foods) 
   number_of_items = get_number_of_items
-  
   puts "Here is your menu:"
   puts "-" * 60
   number_of_items.times do |i|
@@ -65,6 +63,5 @@ def create_menu(descriptors, cooking_styles, foods)
     foods.delete(food)
     puts "#{i + 1}: #{descriptor} #{cooking_style} #{food}"
   end
-  
 end
 create_menu(descriptors, cooking_styles, foods)
