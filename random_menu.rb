@@ -33,7 +33,7 @@ food = [
   "Crab",
   "Salmon",
   "Soup",
-  "Tomatos",
+  "Tomatoes",
   "Bacon",
   "Eggs"
 ]
