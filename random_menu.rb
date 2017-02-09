@@ -26,7 +26,7 @@ if generate == "yes"
   10.times do
     # incresed the number of the ordered list by 1 each iteration
     number += 1
-    puts "#{number}. #{adjectives[rand(0..9)].} #{styles[rand(0..9)]} #{foods[rand(0..9)]}"
+    puts "#{number}. #{adjectives[rand(0..9)]} #{styles[rand(0..9)]} #{foods[rand(0..9)]}"
   end
 end
 
