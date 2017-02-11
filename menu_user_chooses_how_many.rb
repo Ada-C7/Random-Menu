@@ -74,7 +74,3 @@ entered_num.times do
   order_num += 1
   i -= 1
 end
-
-10.times do
-  num = rand(10)
-end
