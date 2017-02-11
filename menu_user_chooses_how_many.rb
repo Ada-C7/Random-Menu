@@ -60,11 +60,11 @@ entered_num.times do
   num1 = rand(i)
   style = cook_style[num1]
   #making sure that all uppercase letters stay uppercase (BBQ)
-    if style.is_lower?
-      style1 = style.capitalize
-    else
-      style1 = style
-    end
+  if style.is_lower?
+    style1 = style.capitalize
+  else
+    style1 = style
+  end
   cook_style.delete(style)
 
   num2 = rand(i)
