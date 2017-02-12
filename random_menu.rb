@@ -45,3 +45,9 @@ print "\n"
 for counter in 1..10
   puts "#{counter}. #{descriptor_1[rand(0..9)]} #{descriptor_2[rand(0..9)]} #{food[rand(0..9)]}"
 end
+
+#Alternative loop - Prints 10 random menu items.
+
+# 10.times do |counter|
+#   puts "#{counter}. #{descriptor_1[rand(0..9)]} #{descriptor_2[rand(0..9)]} #{food[rand(0..9)]}"
+# end
