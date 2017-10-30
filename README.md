@@ -1,7 +1,8 @@
 # Random Menu Generator
 An assignment completed during my time at Ada Developers Academy.
 
-Instructions below:
+Original Instructions
+---
 
 Create a program that runs from the Terminal that will create a random menu based on several items that you determine.
 
